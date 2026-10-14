@@ -1,0 +1,7 @@
+SumatraPDF 3.6.1 x64 portable, unmodified official binary.
+Binary: https://files.sumatrapdfreader.org/software/sumatrapdf/rel/3.6.1/SumatraPDF-3.6.1-64.zip
+Source: https://github.com/sumatrapdfreader/sumatrapdf/tree/3.6.1rel
+Corresponding source is available in the same GitHub Release as SumatraPDF-3.6.1-source.tar.gz.
+https://github.com/tosh-m12/pdf-batch-print/releases/tag/v1.0.0
+See COPYING, COPYING.BSD and AUTHORS for license and credits.
+SHA256 (SumatraPDF.exe): 719f689b34f47be8ca105ce8484948474dafde0e106bab599e4a89326070c3d0
